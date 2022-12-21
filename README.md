@@ -1,2 +1,2 @@
-# Internship-35
+# Internship
 project submission
